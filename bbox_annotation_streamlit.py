@@ -277,14 +277,14 @@ def main():
             
             proposals_path = st.text_input(
                 "Proposals JSON Path",
-                value="phase2_bbox_proposals/bbox_proposals_qwen_v1.json",
+                value="bbox_proposals_qwen_v1.json",
                 help="Path to bbox_proposals_qwen_v1.json"
             )
             
             images_dir = st.text_input(
                 "Images Directory",
-                value="pilot_dataset/",
-                help="Path to pilot_dataset folder"
+                value="images/",
+                help="Path to images folder"
             )
             
             annotator_id = st.text_input(
