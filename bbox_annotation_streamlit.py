@@ -356,7 +356,21 @@ def main():
             
             # Help
             st.markdown("---")
-            if st.button("❓ Show Guidelines"):
+            # Download annotations button
+        if len(st.session_state.annotations) > 0:
+            st.markdown("---")
+            st.markdown("### 💾 Save Progress")
+            annotations_json = json.dumps(st.session_state.annotations, indent=2)
+            st.download_button(
+                label=f"⬇️ Download {len(st.session_state.annotations)} Annotations",
+                data=annotations_json,
+                file_name=f"annotations_{st.session_state.annotator_id}.json",
+                mime="application/json",
+                use_container_width=True
+            )
+            st.info("💡 Download frequently to save your progress!")
+        
+        if st.button("❓ Show Guidelines"):
                 st.session_state.show_help = True
     
     # Main area
