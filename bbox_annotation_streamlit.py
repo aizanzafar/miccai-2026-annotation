@@ -213,8 +213,23 @@ def save_annotation(example, evid, decision, final_bbox, rejection_reason=None):
 def save_progress():
     """Save progress to GitHub or local file."""
     if GITHUB_SAVE_ENABLED and hasattr(st, 'secrets') and st.secrets.get('github_token'):
-        # Auto-save to GitHub
-        success, message = save_to_github(st.session_state.annotations, st.session_state.annotator_id)
+        # First, load existing annotations from GitHub
+        try:
+            from github_saver import load_from_github
+            existing = load_from_github(st.session_state.annotator_id)
+            if existing:
+                # Merge: keep existing + add new ones not in existing
+                existing_ids = {(a['example_id'], a['evid_index']) for a in existing}
+                new_annotations = [a for a in st.session_state.annotations 
+                                 if (a['example_id'], a['evid_index']) not in existing_ids]
+                all_annotations = existing + new_annotations
+            else:
+                all_annotations = st.session_state.annotations
+        except:
+            all_annotations = st.session_state.annotations
+        
+        # Auto-save to GitHub with merged list
+        success, message = save_to_github(all_annotations, st.session_state.annotator_id)
         if success and 'last_save_message' in dir(st.session_state):
             st.session_state.last_save_message = message
     else:

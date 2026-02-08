@@ -66,6 +66,56 @@ def save_to_github(annotations, annotator_id):
         return False, f"❌ Error saving to GitHub: {str(e)}"
 
 
+def load_from_github(annotator_id):
+    """
+    Load existing annotations from GitHub.
+    
+    Args:
+        annotator_id: Annotator's ID for filename
+    
+    Returns:
+        list: Existing annotations or empty list if not found
+    """
+    try:
+        import streamlit as st
+        
+        # Get GitHub credentials from Streamlit secrets
+        token = st.secrets.get("github_token", "")
+        repo = st.secrets.get("github_repo", "aizanzafar/miccai-2026-annotation")
+        branch = st.secrets.get("github_branch", "main")
+        
+        if not token:
+            return []
+        
+        # Prepare file path
+        filename = f"annotations/{annotator_id}.json"
+        
+        # GitHub API endpoint
+        api_url = f"https://api.github.com/repos/{repo}/contents/{filename}"
+        
+        # Headers
+        headers = {
+            "Authorization": f"token {token}",
+            "Accept": "application/vnd.github.v3+json"
+        }
+        
+        # Try to get file
+        response = requests.get(api_url, headers=headers, params={"ref": branch})
+        
+        if response.status_code == 200:
+            # Decode content
+            content_b64 = response.json()["content"]
+            content_bytes = base64.b64decode(content_b64)
+            content_str = content_bytes.decode('utf-8')
+            annotations = json.loads(content_str)
+            return annotations
+        else:
+            return []
+            
+    except Exception as e:
+        return []
+
+
 def test_github_connection():
     """Test if GitHub API is accessible with current token."""
     try:
