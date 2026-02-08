@@ -12,6 +12,12 @@ Usage:
 
 import streamlit as st
 import json
+import requests
+try:
+    from github_saver import save_to_github, test_github_connection
+    GITHUB_SAVE_ENABLED = True
+except:
+    GITHUB_SAVE_ENABLED = False
 import cv2
 import numpy as np
 from pathlib import Path
@@ -205,10 +211,21 @@ def save_annotation(example, evid, decision, final_bbox, rejection_reason=None):
 
 
 def save_progress():
-    """Save progress to JSON file."""
-    output_path = st.session_state.output_path
-    with open(output_path, 'w') as f:
-        json.dump(st.session_state.annotations, f, indent=2)
+    """Save progress to GitHub or local file."""
+    if GITHUB_SAVE_ENABLED and hasattr(st, 'secrets') and st.secrets.get('github_token'):
+        # Auto-save to GitHub
+        success, message = save_to_github(st.session_state.annotations, st.session_state.annotator_id)
+        if success and 'last_save_message' in dir(st.session_state):
+            st.session_state.last_save_message = message
+    else:
+        # Fallback: local save (won't work on Streamlit Cloud - that's OK)
+        try:
+            output_path = st.session_state.output_path
+            with open(output_path, 'w') as f:
+                json.dump(st.session_state.annotations, f, indent=2)
+        except:
+            pass  # Silent fail on Streamlit Cloud
+
 
 
 def next_evid():
