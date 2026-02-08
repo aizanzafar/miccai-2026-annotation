@@ -14,7 +14,7 @@ import streamlit as st
 import json
 import requests
 try:
-    from github_saver import save_to_github, test_github_connection
+    from github_saver import save_to_github, load_from_github, test_github_connection
     GITHUB_SAVE_ENABLED = True
 except:
     GITHUB_SAVE_ENABLED = False
@@ -215,7 +215,6 @@ def save_progress():
     if GITHUB_SAVE_ENABLED and hasattr(st, 'secrets') and st.secrets.get('github_token'):
         # First, load existing annotations from GitHub
         try:
-            from github_saver import load_from_github
             existing = load_from_github(st.session_state.annotator_id)
             if existing:
                 # Merge: keep existing + add new ones not in existing
