@@ -1,0 +1,31 @@
+[
+  {
+    "example_id": "slake_4822",
+    "evid_index": 0,
+    "evid_phrase": "Lung",
+    "original_evid": "phrase=\"Lung\" region=[TBD] conf=0.9",
+    "proposed_bbox": [
+      0.5,
+      0.5,
+      0.5,
+      0.39999999999999997
+    ],
+    "final_bbox": [
+      0.5,
+      0.4990234375,
+      0.5,
+      0.400390625
+    ],
+    "decision": "accept",
+    "adjustment_type": "none",
+    "rejection_reason": null,
+    "grounding_tier": "tier1_tight",
+    "annotator_id": "az",
+    "annotation_time": "2026-02-08T21:54:59.249818",
+    "time_spent": 3.5,
+    "confidence": null,
+    "notes": null,
+    "question": "What diseases are included in the picture?",
+    "answer": "Lung Cancer"
+  }
+]
