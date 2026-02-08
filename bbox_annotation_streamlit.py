@@ -498,21 +498,54 @@ def main():
             
             if adjust_mode == "Move":
                 st.markdown("**Move Bbox**")
-                new_x1 = st.slider("X Position", 0, img_w - (x2 - x1), x1, key="move_x")
-                new_y1 = st.slider("Y Position", 0, img_h - (y2 - y1), y1, key="move_y")
+                # Calculate valid ranges (ensure min < max)
+                bbox_w = x2 - x1
+                bbox_h = y2 - y1
+                max_x = img_w - bbox_w
+                max_y = img_h - bbox_h
                 
-                if new_x1 != x1 or new_y1 != y1:
-                    dx = new_x1 - x1
-                    dy = new_y1 - y1
-                    st.session_state.bbox = [x1 + dx, y1 + dy, x2 + dx, y2 + dy]
+                # Check if bbox can be moved
+                if max_x > 0 and max_y > 0:
+                    new_x1 = st.slider("X Position", 0, max_x, min(x1, max_x), key="move_x")
+                    new_y1 = st.slider("Y Position", 0, max_y, min(y1, max_y), key="move_y")
+                    
+                    if new_x1 != x1 or new_y1 != y1:
+                        dx = new_x1 - x1
+                        dy = new_y1 - y1
+                        st.session_state.bbox = [x1 + dx, y1 + dy, x2 + dx, y2 + dy]
+                        st.rerun()
+                else:
+                    st.info(" Bbox is full width/height - cannot move. Use Resize instead.")
                     st.rerun()
             
             else:  # Resize
                 st.markdown("**Resize Bbox**")
-                new_x1 = st.slider("Left X", 0, x2 - 10, x1, key="resize_x1")
-                new_y1 = st.slider("Top Y", 0, y2 - 10, y1, key="resize_y1")
-                new_x2 = st.slider("Right X", x1 + 10, img_w, x2, key="resize_x2")
-                new_y2 = st.slider("Bottom Y", y1 + 10, img_h, y2, key="resize_y2")
+                # Calculate valid ranges (min 10px bbox size)
+                max_left_x = max(0, x2 - 10)
+                max_top_y = max(0, y2 - 10)
+                min_right_x = min(img_w, x1 + 10)
+                min_bottom_y = min(img_h, y1 + 10)
+                
+                # Only show sliders if valid ranges exist
+                if max_left_x >= 0:
+                    new_x1 = st.slider("Left X", 0, max_left_x, min(x1, max_left_x), key="resize_x1")
+                else:
+                    new_x1 = x1
+                    
+                if max_top_y >= 0:
+                    new_y1 = st.slider("Top Y", 0, max_top_y, min(y1, max_top_y), key="resize_y1")
+                else:
+                    new_y1 = y1
+                    
+                if min_right_x <= img_w:
+                    new_x2 = st.slider("Right X", min_right_x, img_w, max(x2, min_right_x), key="resize_x2")
+                else:
+                    new_x2 = x2
+                    
+                if min_bottom_y <= img_h:
+                    new_y2 = st.slider("Bottom Y", min_bottom_y, img_h, max(y2, min_bottom_y), key="resize_y2")
+                else:
+                    new_y2 = y2
                 
                 if [new_x1, new_y1, new_x2, new_y2] != [x1, y1, x2, y2]:
                     st.session_state.bbox = [new_x1, new_y1, new_x2, new_y2]
