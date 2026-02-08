@@ -3,7 +3,7 @@
     "id": "slake_4822",
     "dataset": "SLAKE",
     "proxy_complexity": "simple",
-    "image_path": "images/slake_4822.jpg",
+    "image_path": "slake_4822.jpg",
     "question": "What diseases are included in the picture?",
     "answer": "Lung Cancer",
     "evid_proposals": [
@@ -31,7 +31,7 @@
     "id": "pathvqa_pathvqa_train_00017391",
     "dataset": "PathVQA",
     "proxy_complexity": "medium",
-    "image_path": "images/pathvqa_pathvqa_train_00017391.jpg",
+    "image_path": "pathvqa_pathvqa_train_00017391.jpg",
     "question": "does syndactyly show opened uterus with polypoid lesion?",
     "answer": "no",
     "evid_proposals": [
@@ -78,7 +78,7 @@
     "id": "vqarad_2030",
     "dataset": "VQA-RAD",
     "proxy_complexity": "medium",
-    "image_path": "images/vqarad_2030.jpg",
+    "image_path": "vqarad_2030.jpg",
     "question": "Where in relation to the mass is the left kidney located in this image?",
     "answer": "posteriorly",
     "evid_proposals": [
@@ -106,7 +106,7 @@
     "id": "pathvqa_pathvqa_train_00003602",
     "dataset": "PathVQA",
     "proxy_complexity": "simple",
-    "image_path": "images/pathvqa_pathvqa_train_00003602.jpg",
+    "image_path": "pathvqa_pathvqa_train_00003602.jpg",
     "question": "what does this image show?",
     "answer": "ductopenia",
     "evid_proposals": [
@@ -134,7 +134,7 @@
     "id": "vqarad_1095",
     "dataset": "VQA-RAD",
     "proxy_complexity": "complex",
-    "image_path": "images/vqarad_1095.jpg",
+    "image_path": "vqarad_1095.jpg",
     "question": "Where is the abnormality in this image?",
     "answer": "Left cerebellum",
     "evid_proposals": [
@@ -162,7 +162,7 @@
     "id": "omnimedvqa_RadImageNet_23603",
     "dataset": "OmniMedVQA",
     "proxy_complexity": "medium",
-    "image_path": "images/omnimedvqa_RadImageNet_23603.png",
+    "image_path": "omnimedvqa_RadImageNet_23603.png",
     "question": "What structure is depicted in this ultrasound image?",
     "answer": "thyroid nodule",
     "evid_proposals": [
@@ -190,7 +190,7 @@
     "id": "vqarad_1175",
     "dataset": "VQA-RAD",
     "proxy_complexity": "medium",
-    "image_path": "images/vqarad_1175.jpg",
+    "image_path": "vqarad_1175.jpg",
     "question": "Where is the lesion located?",
     "answer": "Left occipital lobe",
     "evid_proposals": [
@@ -252,7 +252,7 @@
     "id": "slake_3995",
     "dataset": "SLAKE",
     "proxy_complexity": "simple",
-    "image_path": "images/slake_3995.jpg",
+    "image_path": "slake_3995.jpg",
     "question": "Is the brain healthy?",
     "answer": "Yes",
     "evid_proposals": [
@@ -280,7 +280,7 @@
     "id": "omnimedvqa_RadImageNet_45638",
     "dataset": "OmniMedVQA",
     "proxy_complexity": "complex",
-    "image_path": "images/omnimedvqa_RadImageNet_45638.png",
+    "image_path": "omnimedvqa_RadImageNet_45638.png",
     "question": "Is there any indication of a deviation from the norm in this image?",
     "answer": "No, It's normal.",
     "evid_proposals": [
@@ -308,7 +308,7 @@
     "id": "omnimedvqa_RadImageNet_5121",
     "dataset": "OmniMedVQA",
     "proxy_complexity": "medium",
-    "image_path": "images/omnimedvqa_RadImageNet_5121.png",
+    "image_path": "omnimedvqa_RadImageNet_5121.png",
     "question": "What is the abnormality present in the image?",
     "answer": "Arterial pathology",
     "evid_proposals": [
@@ -336,7 +336,7 @@
     "id": "vqarad_1038",
     "dataset": "VQA-RAD",
     "proxy_complexity": "medium",
-    "image_path": "images/vqarad_1038.jpg",
+    "image_path": "vqarad_1038.jpg",
     "question": "In which brain area is the lesion located?",
     "answer": "Right cerebellopontine angle",
     "evid_proposals": [
@@ -398,7 +398,7 @@
     "id": "slake_40",
     "dataset": "SLAKE",
     "proxy_complexity": "simple",
-    "image_path": "images/slake_40.jpg",
+    "image_path": "slake_40.jpg",
     "question": "Is the lung healthy?",
     "answer": "Yes",
     "evid_proposals": [
@@ -426,7 +426,7 @@
     "id": "slake_742",
     "dataset": "SLAKE",
     "proxy_complexity": "simple",
-    "image_path": "images/slake_742.jpg",
+    "image_path": "slake_742.jpg",
     "question": "What diseases are included in the picture?",
     "answer": "Liver Cancer",
     "evid_proposals": [
@@ -454,7 +454,7 @@
     "id": "pathvqa_pathvqa_train_00004950",
     "dataset": "PathVQA",
     "proxy_complexity": "complex",
-    "image_path": "images/pathvqa_pathvqa_train_00004950.jpg",
+    "image_path": "pathvqa_pathvqa_train_00004950.jpg",
     "question": "why does this image show vertebral column with obvious fibrosis involving four of the bodies but not the remaining one in photo cause of this lesion not proved but almost certainly?",
     "answer": "due to radiation for lung carcinoma and meningeal carcinomatosis",
     "evid_proposals": [
@@ -499,7 +499,7 @@
     "id": "pathvqa_pathvqa_train_00008145",
     "dataset": "PathVQA",
     "proxy_complexity": "simple",
-    "image_path": "images/pathvqa_pathvqa_train_00008145.jpg",
+    "image_path": "pathvqa_pathvqa_train_00008145.jpg",
     "question": "where is this?",
     "answer": "oral",
     "evid_proposals": [
@@ -527,7 +527,7 @@
     "id": "vqarad_528",
     "dataset": "VQA-RAD",
     "proxy_complexity": "simple",
-    "image_path": "images/vqarad_528.jpg",
+    "image_path": "vqarad_528.jpg",
     "question": "What are these hypodensities in the liver?",
     "answer": "Fat accumulations",
     "evid_proposals": [
@@ -555,7 +555,7 @@
     "id": "slake_119",
     "dataset": "SLAKE",
     "proxy_complexity": "medium",
-    "image_path": "images/slake_119.jpg",
+    "image_path": "slake_119.jpg",
     "question": "Is the lung healthy?",
     "answer": "No",
     "evid_proposals": [
@@ -578,7 +578,7 @@
     "id": "pathvqa_pathvqa_train_00018830",
     "dataset": "PathVQA",
     "proxy_complexity": "simple",
-    "image_path": "images/pathvqa_pathvqa_train_00018830.jpg",
+    "image_path": "pathvqa_pathvqa_train_00018830.jpg",
     "question": "what does this image show?",
     "answer": "ischemic bowel",
     "evid_proposals": [
@@ -606,7 +606,7 @@
     "id": "omnimedvqa_RadImageNet_12232",
     "dataset": "OmniMedVQA",
     "proxy_complexity": "simple",
-    "image_path": "images/omnimedvqa_RadImageNet_12232.png",
+    "image_path": "omnimedvqa_RadImageNet_12232.png",
     "question": "What kind of pathological changes can be observed in the depicted scan?",
     "answer": "Pancreatic lesion",
     "evid_proposals": [
@@ -634,7 +634,7 @@
     "id": "slake_258",
     "dataset": "SLAKE",
     "proxy_complexity": "simple",
-    "image_path": "images/slake_258.jpg",
+    "image_path": "slake_258.jpg",
     "question": "What diseases are included in the picture?",
     "answer": "Mass",
     "evid_proposals": [
@@ -662,7 +662,7 @@
     "id": "pathvqa_pathvqa_train_00010773",
     "dataset": "PathVQA",
     "proxy_complexity": "medium",
-    "image_path": "images/pathvqa_pathvqa_train_00010773.jpg",
+    "image_path": "pathvqa_pathvqa_train_00010773.jpg",
     "question": "what are there of collagen forming nodules and characteristic lacunar rs cells?",
     "answer": "bands",
     "evid_proposals": [
@@ -707,7 +707,7 @@
     "id": "pathvqa_pathvqa_train_00015737",
     "dataset": "PathVQA",
     "proxy_complexity": "simple",
-    "image_path": "images/pathvqa_pathvqa_train_00015737.jpg",
+    "image_path": "pathvqa_pathvqa_train_00015737.jpg",
     "question": "where does this belong to?",
     "answer": "endocrine system",
     "evid_proposals": [
@@ -735,7 +735,7 @@
     "id": "vqarad_1552",
     "dataset": "VQA-RAD",
     "proxy_complexity": "medium",
-    "image_path": "images/vqarad_1552.jpg",
+    "image_path": "vqarad_1552.jpg",
     "question": "What does the abnormality in this image represent?",
     "answer": "Infarct",
     "evid_proposals": [
@@ -763,7 +763,7 @@
     "id": "slake_321",
     "dataset": "SLAKE",
     "proxy_complexity": "simple",
-    "image_path": "images/slake_321.jpg",
+    "image_path": "slake_321.jpg",
     "question": "What diseases are included in the picture?",
     "answer": "Cardiomegaly",
     "evid_proposals": [
@@ -791,7 +791,7 @@
     "id": "omnimedvqa_CoronaHack_0234",
     "dataset": "OmniMedVQA",
     "proxy_complexity": "simple",
-    "image_path": "images/omnimedvqa_CoronaHack_0234.jpeg",
+    "image_path": "omnimedvqa_CoronaHack_0234.jpeg",
     "question": "What content appears in this image?",
     "answer": "Lungs",
     "evid_proposals": [
@@ -819,7 +819,7 @@
     "id": "omnimedvqa_RadImageNet_24171",
     "dataset": "OmniMedVQA",
     "proxy_complexity": "simple",
-    "image_path": "images/omnimedvqa_RadImageNet_24171.png",
+    "image_path": "omnimedvqa_RadImageNet_24171.png",
     "question": "What is depicted in this ultrasound image?",
     "answer": "uterus",
     "evid_proposals": [
@@ -847,7 +847,7 @@
     "id": "vqarad_83",
     "dataset": "VQA-RAD",
     "proxy_complexity": "simple",
-    "image_path": "images/vqarad_83.jpg",
+    "image_path": "vqarad_83.jpg",
     "question": "are there calcifications present on the abdominal aorta?",
     "answer": "yes",
     "evid_proposals": [
@@ -875,7 +875,7 @@
     "id": "pathvqa_pathvqa_train_00014522",
     "dataset": "PathVQA",
     "proxy_complexity": "complex",
-    "image_path": "images/pathvqa_pathvqa_train_00014522.jpg",
+    "image_path": "pathvqa_pathvqa_train_00014522.jpg",
     "question": "what is a myofiber distended with trypanosomes presented along with?",
     "answer": "mononuclear inflammation and myofiber necrosis",
     "evid_proposals": [
@@ -937,7 +937,7 @@
     "id": "slake_213",
     "dataset": "SLAKE",
     "proxy_complexity": "simple",
-    "image_path": "images/slake_213.jpg",
+    "image_path": "slake_213.jpg",
     "question": "What diseases are included in the picture?",
     "answer": "Cardiomega",
     "evid_proposals": [
@@ -965,7 +965,7 @@
     "id": "slake_532",
     "dataset": "SLAKE",
     "proxy_complexity": "medium",
-    "image_path": "images/slake_532.jpg",
+    "image_path": "slake_532.jpg",
     "question": "Which organ is abnormal, heart or lung?",
     "answer": "Lung",
     "evid_proposals": [
@@ -993,7 +993,7 @@
     "id": "slake_253",
     "dataset": "SLAKE",
     "proxy_complexity": "medium",
-    "image_path": "images/slake_253.jpg",
+    "image_path": "slake_253.jpg",
     "question": "Is the lung healthy?",
     "answer": "No",
     "evid_proposals": [
@@ -1016,7 +1016,7 @@
     "id": "slake_4655",
     "dataset": "SLAKE",
     "proxy_complexity": "medium",
-    "image_path": "images/slake_4655.jpg",
+    "image_path": "slake_4655.jpg",
     "question": "What diseases are included in the picture?",
     "answer": "Brain Tumor, Brain Edema",
     "evid_proposals": [
@@ -1061,7 +1061,7 @@
     "id": "vqarad_1955",
     "dataset": "VQA-RAD",
     "proxy_complexity": "medium",
-    "image_path": "images/vqarad_1955.jpg",
+    "image_path": "vqarad_1955.jpg",
     "question": "Are there any abnormalities seen in the spleen?",
     "answer": "No",
     "evid_proposals": [
@@ -1084,7 +1084,7 @@
     "id": "vqarad_1205",
     "dataset": "VQA-RAD",
     "proxy_complexity": "complex",
-    "image_path": "images/vqarad_1205.jpg",
+    "image_path": "vqarad_1205.jpg",
     "question": "Is the right kidney abnormal here?",
     "answer": "No",
     "evid_proposals": [
@@ -1107,7 +1107,7 @@
     "id": "omnimedvqa_ALL Challenge_0214",
     "dataset": "OmniMedVQA",
     "proxy_complexity": "simple",
-    "image_path": "images/omnimedvqa_ALL Challenge_0214.bmp",
+    "image_path": "omnimedvqa_ALL Challenge_0214.bmp",
     "question": "Based on the findings presented in the photograph, what condition is most accurately represented?",
     "answer": "Acute lymphoblastic leukemia",
     "evid_proposals": [
@@ -1135,7 +1135,7 @@
     "id": "pathvqa_pathvqa_train_00008568",
     "dataset": "PathVQA",
     "proxy_complexity": "simple",
-    "image_path": "images/pathvqa_pathvqa_train_00008568.jpg",
+    "image_path": "pathvqa_pathvqa_train_00008568.jpg",
     "question": "where is this?",
     "answer": "lung",
     "evid_proposals": [
@@ -1163,7 +1163,7 @@
     "id": "slake_254",
     "dataset": "SLAKE",
     "proxy_complexity": "medium",
-    "image_path": "images/slake_254.jpg",
+    "image_path": "slake_254.jpg",
     "question": "Which organ is abnormal, heart or lung?",
     "answer": "Lung",
     "evid_proposals": [
@@ -1191,7 +1191,7 @@
     "id": "vqarad_759",
     "dataset": "VQA-RAD",
     "proxy_complexity": "complex",
-    "image_path": "images/vqarad_759.jpg",
+    "image_path": "vqarad_759.jpg",
     "question": "what is the foreign body",
     "answer": "sternotomy wires and surgical clips",
     "evid_proposals": [
@@ -1236,7 +1236,7 @@
     "id": "vqarad_2039",
     "dataset": "VQA-RAD",
     "proxy_complexity": "medium",
-    "image_path": "images/vqarad_2039.jpg",
+    "image_path": "vqarad_2039.jpg",
     "question": "Where are the most lung markings?",
     "answer": "Right lung",
     "evid_proposals": [
@@ -1264,7 +1264,7 @@
     "id": "slake_1733",
     "dataset": "SLAKE",
     "proxy_complexity": "simple",
-    "image_path": "images/slake_1733.jpg",
+    "image_path": "slake_1733.jpg",
     "question": "Does the patient have liver cancer?",
     "answer": "Yes",
     "evid_proposals": [
@@ -1292,7 +1292,7 @@
     "id": "omnimedvqa_RadImageNet_31472",
     "dataset": "OmniMedVQA",
     "proxy_complexity": "simple",
-    "image_path": "images/omnimedvqa_RadImageNet_31472.png",
+    "image_path": "omnimedvqa_RadImageNet_31472.png",
     "question": "What can be observed in this image?",
     "answer": "Bone inflammation.",
     "evid_proposals": [
@@ -1320,7 +1320,7 @@
     "id": "pathvqa_pathvqa_train_00007063",
     "dataset": "PathVQA",
     "proxy_complexity": "medium",
-    "image_path": "images/pathvqa_pathvqa_train_00007063.jpg",
+    "image_path": "pathvqa_pathvqa_train_00007063.jpg",
     "question": "does mixed mesodermal tumor show neurofibroma?",
     "answer": "no",
     "evid_proposals": [
@@ -1343,7 +1343,7 @@
     "id": "vqarad_263",
     "dataset": "VQA-RAD",
     "proxy_complexity": "complex",
-    "image_path": "images/vqarad_263.jpg",
+    "image_path": "vqarad_263.jpg",
     "question": "Where is the abnormality located?",
     "answer": "right temporal lobe",
     "evid_proposals": [
@@ -1388,7 +1388,7 @@
     "id": "vqarad_612",
     "dataset": "VQA-RAD",
     "proxy_complexity": "medium",
-    "image_path": "images/vqarad_612.jpg",
+    "image_path": "vqarad_612.jpg",
     "question": "Is there a pleural effusion present?",
     "answer": "No",
     "evid_proposals": [
@@ -1411,7 +1411,7 @@
     "id": "vqarad_422",
     "dataset": "VQA-RAD",
     "proxy_complexity": "simple",
-    "image_path": "images/vqarad_422.jpg",
+    "image_path": "vqarad_422.jpg",
     "question": "Where is the lesion located?",
     "answer": "Anterior mediastinum",
     "evid_proposals": [
@@ -1456,7 +1456,7 @@
     "id": "slake_530",
     "dataset": "SLAKE",
     "proxy_complexity": "medium",
-    "image_path": "images/slake_530.jpg",
+    "image_path": "slake_530.jpg",
     "question": "Is the lung healthy?",
     "answer": "No",
     "evid_proposals": [
@@ -1479,7 +1479,7 @@
     "id": "vqarad_1254",
     "dataset": "VQA-RAD",
     "proxy_complexity": "simple",
-    "image_path": "images/vqarad_1254.jpg",
+    "image_path": "vqarad_1254.jpg",
     "question": "Is there mass effect seen on this image?",
     "answer": "Yes",
     "evid_proposals": [
@@ -1507,7 +1507,7 @@
     "id": "pathvqa_pathvqa_train_00018913",
     "dataset": "PathVQA",
     "proxy_complexity": "simple",
-    "image_path": "images/pathvqa_pathvqa_train_00018913.jpg",
+    "image_path": "pathvqa_pathvqa_train_00018913.jpg",
     "question": "does this image show intestine in situ, congestion and early ischemic necrosis?",
     "answer": "yes",
     "evid_proposals": [
@@ -1569,7 +1569,7 @@
     "id": "slake_717",
     "dataset": "SLAKE",
     "proxy_complexity": "simple",
-    "image_path": "images/slake_717.jpg",
+    "image_path": "slake_717.jpg",
     "question": "What diseases are included in the picture?",
     "answer": "Liver Cancer",
     "evid_proposals": [
@@ -1597,7 +1597,7 @@
     "id": "pathvqa_pathvqa_train_00001204",
     "dataset": "PathVQA",
     "proxy_complexity": "simple",
-    "image_path": "images/pathvqa_pathvqa_train_00001204.jpg",
+    "image_path": "pathvqa_pathvqa_train_00001204.jpg",
     "question": "where is this part in?",
     "answer": "spleen",
     "evid_proposals": [
@@ -1625,7 +1625,7 @@
     "id": "slake_2056",
     "dataset": "SLAKE",
     "proxy_complexity": "complex",
-    "image_path": "images/slake_2056.jpg",
+    "image_path": "slake_2056.jpg",
     "question": "What is the main cause of the disease on the left of the chest in the picture?",
     "answer": "Inflammation, malignant tumor, trauma, etc",
     "evid_proposals": [
@@ -1687,7 +1687,7 @@
     "id": "omnimedvqa_RadImageNet_34646",
     "dataset": "OmniMedVQA",
     "proxy_complexity": "medium",
-    "image_path": "images/omnimedvqa_RadImageNet_34646.png",
+    "image_path": "omnimedvqa_RadImageNet_34646.png",
     "question": "What finding is present in this image?",
     "answer": "Chondral abnormality",
     "evid_proposals": [
@@ -1715,7 +1715,7 @@
     "id": "slake_2790",
     "dataset": "SLAKE",
     "proxy_complexity": "medium",
-    "image_path": "images/slake_2790.jpg",
+    "image_path": "slake_2790.jpg",
     "question": "Is the liver not healthy?",
     "answer": "No",
     "evid_proposals": [
@@ -1738,7 +1738,7 @@
     "id": "slake_671",
     "dataset": "SLAKE",
     "proxy_complexity": "medium",
-    "image_path": "images/slake_671.jpg",
+    "image_path": "slake_671.jpg",
     "question": "Which organ is abnormal, heart or lung?",
     "answer": "Lung",
     "evid_proposals": [
@@ -1766,7 +1766,7 @@
     "id": "slake_2516",
     "dataset": "SLAKE",
     "proxy_complexity": "medium",
-    "image_path": "images/slake_2516.jpg",
+    "image_path": "slake_2516.jpg",
     "question": "Is the lung healthy?",
     "answer": "No",
     "evid_proposals": [
@@ -1789,7 +1789,7 @@
     "id": "slake_3830",
     "dataset": "SLAKE",
     "proxy_complexity": "simple",
-    "image_path": "images/slake_3830.jpg",
+    "image_path": "slake_3830.jpg",
     "question": "Is brain tumor white or gray relative to other tissues?",
     "answer": "White",
     "evid_proposals": [
@@ -1817,7 +1817,7 @@
     "id": "vqarad_599",
     "dataset": "VQA-RAD",
     "proxy_complexity": "simple",
-    "image_path": "images/vqarad_599.jpg",
+    "image_path": "vqarad_599.jpg",
     "question": "Can the lateral ventricles be seen?",
     "answer": "yes",
     "evid_proposals": [
@@ -1845,7 +1845,7 @@
     "id": "slake_2517",
     "dataset": "SLAKE",
     "proxy_complexity": "complex",
-    "image_path": "images/slake_2517.jpg",
+    "image_path": "slake_2517.jpg",
     "question": "Can pneumonia be observed on the upper left lung in this picture?",
     "answer": "No",
     "evid_proposals": [
@@ -1868,7 +1868,7 @@
     "id": "omnimedvqa_RadImageNet_46043",
     "dataset": "OmniMedVQA",
     "proxy_complexity": "complex",
-    "image_path": "images/omnimedvqa_RadImageNet_46043.png",
+    "image_path": "omnimedvqa_RadImageNet_46043.png",
     "question": "Is there any irregularity in the image?",
     "answer": "No, It's normal.",
     "evid_proposals": [
@@ -1896,7 +1896,7 @@
     "id": "pathvqa_pathvqa_train_00000301",
     "dataset": "PathVQA",
     "proxy_complexity": "medium",
-    "image_path": "images/pathvqa_pathvqa_train_00000301.jpg",
+    "image_path": "pathvqa_pathvqa_train_00000301.jpg",
     "question": "what does this image show?",
     "answer": "jaundice due to terminal alcoholic cirrhosis with shock and typical facial appearance of edema due to generalized capillary permeability increase or shock",
     "evid_proposals": [
@@ -1975,7 +1975,7 @@
     "id": "pathvqa_pathvqa_train_00018952",
     "dataset": "PathVQA",
     "proxy_complexity": "simple",
-    "image_path": "images/pathvqa_pathvqa_train_00018952.jpg",
+    "image_path": "pathvqa_pathvqa_train_00018952.jpg",
     "question": "where does this belong to?",
     "answer": "gastrointestinal system",
     "evid_proposals": [
@@ -2003,7 +2003,7 @@
     "id": "slake_455",
     "dataset": "SLAKE",
     "proxy_complexity": "simple",
-    "image_path": "images/slake_455.jpg",
+    "image_path": "slake_455.jpg",
     "question": "What diseases are included in the picture?",
     "answer": "Infiltration",
     "evid_proposals": [
@@ -2031,7 +2031,7 @@
     "id": "omnimedvqa_RadImageNet_11728",
     "dataset": "OmniMedVQA",
     "proxy_complexity": "simple",
-    "image_path": "images/omnimedvqa_RadImageNet_11728.png",
+    "image_path": "omnimedvqa_RadImageNet_11728.png",
     "question": "What kind of irregularity can be seen in this image?",
     "answer": "Osseous neoplasm",
     "evid_proposals": [
@@ -2059,7 +2059,7 @@
     "id": "omnimedvqa_Covid19 heywhale_0561",
     "dataset": "OmniMedVQA",
     "proxy_complexity": "medium",
-    "image_path": "images/omnimedvqa_Covid19 heywhale_0561.png",
+    "image_path": "omnimedvqa_Covid19 heywhale_0561.png",
     "question": "What is the patient's diagnosis based on the image provided?",
     "answer": "Viral_Pneumonia.",
     "evid_proposals": [
@@ -2087,7 +2087,7 @@
     "id": "slake_3829",
     "dataset": "SLAKE",
     "proxy_complexity": "complex",
-    "image_path": "images/slake_3829.jpg",
+    "image_path": "slake_3829.jpg",
     "question": "What diseases are included in the picture?",
     "answer": "Brain Edema, Brain Non-enhancing Tumor",
     "evid_proposals": [
@@ -2132,7 +2132,7 @@
     "id": "vqarad_1091",
     "dataset": "VQA-RAD",
     "proxy_complexity": "medium",
-    "image_path": "images/vqarad_1091.jpg",
+    "image_path": "vqarad_1091.jpg",
     "question": "Are the opacities confined to one lung lobe?",
     "answer": "No",
     "evid_proposals": [
@@ -2155,7 +2155,7 @@
     "id": "slake_869",
     "dataset": "SLAKE",
     "proxy_complexity": "simple",
-    "image_path": "images/slake_869.jpg",
+    "image_path": "slake_869.jpg",
     "question": "Is the liver healthy?",
     "answer": "Yes",
     "evid_proposals": [
@@ -2183,7 +2183,7 @@
     "id": "pathvqa_pathvqa_train_00004998",
     "dataset": "PathVQA",
     "proxy_complexity": "simple",
-    "image_path": "images/pathvqa_pathvqa_train_00004998.jpg",
+    "image_path": "pathvqa_pathvqa_train_00004998.jpg",
     "question": "how does this image show rib?",
     "answer": "with well shown lesion",
     "evid_proposals": [
@@ -2228,7 +2228,7 @@
     "id": "pathvqa_pathvqa_train_00017910",
     "dataset": "PathVQA",
     "proxy_complexity": "simple",
-    "image_path": "images/pathvqa_pathvqa_train_00017910.jpg",
+    "image_path": "pathvqa_pathvqa_train_00017910.jpg",
     "question": "what does this image show?",
     "answer": "seen from fetal surface term placenta",
     "evid_proposals": [
@@ -2256,7 +2256,7 @@
     "id": "omnimedvqa_RadImageNet_35988",
     "dataset": "OmniMedVQA",
     "proxy_complexity": "simple",
-    "image_path": "images/omnimedvqa_RadImageNet_35988.png",
+    "image_path": "omnimedvqa_RadImageNet_35988.png",
     "question": "What can be observed in this image?",
     "answer": "Chronic infarct",
     "evid_proposals": [
@@ -2284,7 +2284,7 @@
     "id": "slake_4869",
     "dataset": "SLAKE",
     "proxy_complexity": "simple",
-    "image_path": "images/slake_4869.jpg",
+    "image_path": "slake_4869.jpg",
     "question": "Is the lung healthy?",
     "answer": "Yes",
     "evid_proposals": [
@@ -2312,7 +2312,7 @@
     "id": "slake_3769",
     "dataset": "SLAKE",
     "proxy_complexity": "simple",
-    "image_path": "images/slake_3769.jpg",
+    "image_path": "slake_3769.jpg",
     "question": "What is the color of brain enhancing tumor in this image?",
     "answer": "White",
     "evid_proposals": [
@@ -2340,7 +2340,7 @@
     "id": "slake_3704",
     "dataset": "SLAKE",
     "proxy_complexity": "medium",
-    "image_path": "images/slake_3704.jpg",
+    "image_path": "slake_3704.jpg",
     "question": "Is the brain non-enhancing tumor hyperdense or hypodense?",
     "answer": "Hypodense",
     "evid_proposals": [
@@ -2385,7 +2385,7 @@
     "id": "omnimedvqa_RadImageNet_45404",
     "dataset": "OmniMedVQA",
     "proxy_complexity": "complex",
-    "image_path": "images/omnimedvqa_RadImageNet_45404.png",
+    "image_path": "omnimedvqa_RadImageNet_45404.png",
     "question": "Is the image showing any anomalies or abnormalities?",
     "answer": "No, It's normal.",
     "evid_proposals": [
@@ -2430,7 +2430,7 @@
     "id": "vqarad_1066",
     "dataset": "VQA-RAD",
     "proxy_complexity": "simple",
-    "image_path": "images/vqarad_1066.jpg",
+    "image_path": "vqarad_1066.jpg",
     "question": "The condition in which a patient has enlarged ventricles as seen in this image?",
     "answer": "Hydrocephalus",
     "evid_proposals": [
@@ -2458,7 +2458,7 @@
     "id": "vqarad_688",
     "dataset": "VQA-RAD",
     "proxy_complexity": "simple",
-    "image_path": "images/vqarad_688.jpg",
+    "image_path": "vqarad_688.jpg",
     "question": "what is the pathology?",
     "answer": "cardiomegaly with pulmonary edema",
     "evid_proposals": [
@@ -2503,7 +2503,7 @@
     "id": "vqarad_344",
     "dataset": "VQA-RAD",
     "proxy_complexity": "medium",
-    "image_path": "images/vqarad_344.jpg",
+    "image_path": "vqarad_344.jpg",
     "question": "Which lobe of the lung is the lesion located in?",
     "answer": "Right upper lobe",
     "evid_proposals": [
@@ -2531,7 +2531,7 @@
     "id": "slake_854",
     "dataset": "SLAKE",
     "proxy_complexity": "simple",
-    "image_path": "images/slake_854.jpg",
+    "image_path": "slake_854.jpg",
     "question": "Is the liver healthy?",
     "answer": "Yes",
     "evid_proposals": [
@@ -2559,7 +2559,7 @@
     "id": "vqarad_1569",
     "dataset": "VQA-RAD",
     "proxy_complexity": "simple",
-    "image_path": "images/vqarad_1569.jpg",
+    "image_path": "vqarad_1569.jpg",
     "question": "Is the trachea midline?",
     "answer": "Midline",
     "evid_proposals": [
@@ -2587,7 +2587,7 @@
     "id": "slake_476",
     "dataset": "SLAKE",
     "proxy_complexity": "medium",
-    "image_path": "images/slake_476.jpg",
+    "image_path": "slake_476.jpg",
     "question": "Which organ is abnormal, heart or lung?",
     "answer": "Lung",
     "evid_proposals": [
@@ -2615,7 +2615,7 @@
     "id": "omnimedvqa_RadImageNet_48379",
     "dataset": "OmniMedVQA",
     "proxy_complexity": "complex",
-    "image_path": "images/omnimedvqa_RadImageNet_48379.png",
+    "image_path": "omnimedvqa_RadImageNet_48379.png",
     "question": "Is there any indication of an abnormality in this image?",
     "answer": "No, It's normal.",
     "evid_proposals": [
@@ -2643,7 +2643,7 @@
     "id": "omnimedvqa_Retinal OCT-C8_3661",
     "dataset": "OmniMedVQA",
     "proxy_complexity": "medium",
-    "image_path": "images/omnimedvqa_Retinal OCT-C8_3661.jpg",
+    "image_path": "omnimedvqa_Retinal OCT-C8_3661.jpg",
     "question": "What is the specific abnormality shown in this image?",
     "answer": "Diabetic Macular Edema (DME)",
     "evid_proposals": [
@@ -2671,7 +2671,7 @@
     "id": "slake_3003",
     "dataset": "SLAKE",
     "proxy_complexity": "medium",
-    "image_path": "images/slake_3003.jpg",
+    "image_path": "slake_3003.jpg",
     "question": "Does the brain look abnormal?",
     "answer": "Yes",
     "evid_proposals": [
@@ -2699,7 +2699,7 @@
     "id": "omnimedvqa_CRC100k_0731",
     "dataset": "OmniMedVQA",
     "proxy_complexity": "simple",
-    "image_path": "images/omnimedvqa_CRC100k_0731.tif",
+    "image_path": "omnimedvqa_CRC100k_0731.tif",
     "question": "What is the substance that is depicted in this image?",
     "answer": "Mucus",
     "evid_proposals": [
@@ -2727,7 +2727,7 @@
     "id": "pathvqa_pathvqa_train_00013678",
     "dataset": "PathVQA",
     "proxy_complexity": "medium",
-    "image_path": "images/pathvqa_pathvqa_train_00013678.jpg",
+    "image_path": "pathvqa_pathvqa_train_00013678.jpg",
     "question": "what have the shape and volume of the left ventricle been distorted by?",
     "answer": "the enlarged right ventricle",
     "evid_proposals": [
@@ -2755,7 +2755,7 @@
     "id": "vqarad_208",
     "dataset": "VQA-RAD",
     "proxy_complexity": "simple",
-    "image_path": "images/vqarad_208.jpg",
+    "image_path": "vqarad_208.jpg",
     "question": "Is there evidence of calcification in the mass?",
     "answer": "Yes",
     "evid_proposals": [
@@ -2783,7 +2783,7 @@
     "id": "pathvqa_pathvqa_train_00017235",
     "dataset": "PathVQA",
     "proxy_complexity": "medium",
-    "image_path": "images/pathvqa_pathvqa_train_00017235.jpg",
+    "image_path": "pathvqa_pathvqa_train_00017235.jpg",
     "question": "does close-up tumor show van gieson?",
     "answer": "no",
     "evid_proposals": [
@@ -2818,7 +2818,7 @@
     "id": "slake_324",
     "dataset": "SLAKE",
     "proxy_complexity": "medium",
-    "image_path": "images/slake_324.jpg",
+    "image_path": "slake_324.jpg",
     "question": "Which organ is abnormal, heart or lung?",
     "answer": "Heart",
     "evid_proposals": [
@@ -2846,7 +2846,7 @@
     "id": "slake_3515",
     "dataset": "SLAKE",
     "proxy_complexity": "complex",
-    "image_path": "images/slake_3515.jpg",
+    "image_path": "slake_3515.jpg",
     "question": "What disease is/are shown on the left of brain?",
     "answer": "Brain Edema, Brain Enhancing Tumor, Brain Non-enhancing Tumor",
     "evid_proposals": [
@@ -2908,7 +2908,7 @@
     "id": "vqarad_561",
     "dataset": "VQA-RAD",
     "proxy_complexity": "medium",
-    "image_path": "images/vqarad_561.jpg",
+    "image_path": "vqarad_561.jpg",
     "question": "Is a pleural effusion present?",
     "answer": "no",
     "evid_proposals": [
@@ -2931,7 +2931,7 @@
     "id": "vqarad_266",
     "dataset": "VQA-RAD",
     "proxy_complexity": "complex",
-    "image_path": "images/vqarad_266.jpg",
+    "image_path": "vqarad_266.jpg",
     "question": "What abnormalities are in the right upper quadrant?",
     "answer": "Gallstones",
     "evid_proposals": [
@@ -2959,7 +2959,7 @@
     "id": "slake_3309",
     "dataset": "SLAKE",
     "proxy_complexity": "simple",
-    "image_path": "images/slake_3309.jpg",
+    "image_path": "slake_3309.jpg",
     "question": "Is the tumor enhancing?",
     "answer": "Yes",
     "evid_proposals": [
@@ -2987,7 +2987,7 @@
     "id": "omnimedvqa_CoronaHack_0301",
     "dataset": "OmniMedVQA",
     "proxy_complexity": "simple",
-    "image_path": "images/omnimedvqa_CoronaHack_0301.jpeg",
+    "image_path": "omnimedvqa_CoronaHack_0301.jpeg",
     "question": "What content appears in this image?",
     "answer": "Lungs",
     "evid_proposals": [
@@ -3015,7 +3015,7 @@
     "id": "vqarad_1884",
     "dataset": "VQA-RAD",
     "proxy_complexity": "medium",
-    "image_path": "images/vqarad_1884.jpg",
+    "image_path": "vqarad_1884.jpg",
     "question": "Is there a pleural effusion present?",
     "answer": "No",
     "evid_proposals": [
@@ -3038,7 +3038,7 @@
     "id": "vqarad_1684",
     "dataset": "VQA-RAD",
     "proxy_complexity": "medium",
-    "image_path": "images/vqarad_1684.jpg",
+    "image_path": "vqarad_1684.jpg",
     "question": "Is there a fracture of the clavicle?",
     "answer": "No",
     "evid_proposals": [
@@ -3061,7 +3061,7 @@
     "id": "pathvqa_pathvqa_train_00016347",
     "dataset": "PathVQA",
     "proxy_complexity": "medium",
-    "image_path": "images/pathvqa_pathvqa_train_00016347.jpg",
+    "image_path": "pathvqa_pathvqa_train_00016347.jpg",
     "question": "is beckwith-wiedemann syndrome present?",
     "answer": "no",
     "evid_proposals": [
@@ -3084,7 +3084,7 @@
     "id": "slake_3463",
     "dataset": "SLAKE",
     "proxy_complexity": "complex",
-    "image_path": "images/slake_3463.jpg",
+    "image_path": "slake_3463.jpg",
     "question": "What kind of symptoms will the disease on the left lobe of brain in the picture bring to the patient?",
     "answer": "Encephalomalacia, local edema, confusion, increased intracranial pressure",
     "evid_proposals": [
@@ -3163,7 +3163,7 @@
     "id": "slake_2403",
     "dataset": "SLAKE",
     "proxy_complexity": "medium",
-    "image_path": "images/slake_2403.jpg",
+    "image_path": "slake_2403.jpg",
     "question": "Does the spleen look normal?",
     "answer": "Yes",
     "evid_proposals": [
@@ -3191,7 +3191,7 @@
     "id": "vqarad_355",
     "dataset": "VQA-RAD",
     "proxy_complexity": "simple",
-    "image_path": "images/vqarad_355.jpg",
+    "image_path": "vqarad_355.jpg",
     "question": "Besides the intestines, what other organs are present?",
     "answer": "kidneys",
     "evid_proposals": [
@@ -3219,7 +3219,7 @@
     "id": "vqarad_1420",
     "dataset": "VQA-RAD",
     "proxy_complexity": "simple",
-    "image_path": "images/vqarad_1420.jpg",
+    "image_path": "vqarad_1420.jpg",
     "question": "What is wrong with the pancreas?",
     "answer": "fatty infiltration",
     "evid_proposals": [
@@ -3247,7 +3247,7 @@
     "id": "pathvqa_pathvqa_train_00012943",
     "dataset": "PathVQA",
     "proxy_complexity": "medium",
-    "image_path": "images/pathvqa_pathvqa_train_00012943.jpg",
+    "image_path": "pathvqa_pathvqa_train_00012943.jpg",
     "question": "what does this image show?",
     "answer": "good example tastefully shown with face out of picture and genitalia covered muscle atrophy is striking",
     "evid_proposals": [
@@ -3275,7 +3275,7 @@
     "id": "pathvqa_pathvqa_train_00014533",
     "dataset": "PathVQA",
     "proxy_complexity": "medium",
-    "image_path": "images/pathvqa_pathvqa_train_00014533.jpg",
+    "image_path": "pathvqa_pathvqa_train_00014533.jpg",
     "question": "is a myofiber distended with trypanosomes present, along with mononuclear inflammation and myofiber necrosis?",
     "answer": "yes",
     "evid_proposals": [
@@ -3337,7 +3337,7 @@
     "id": "vqarad_324",
     "dataset": "VQA-RAD",
     "proxy_complexity": "medium",
-    "image_path": "images/vqarad_324.jpg",
+    "image_path": "vqarad_324.jpg",
     "question": "What level is the abnormality located at?",
     "answer": "T5",
     "evid_proposals": [
@@ -3365,7 +3365,7 @@
     "id": "omnimedvqa_RadImageNet_44967",
     "dataset": "OmniMedVQA",
     "proxy_complexity": "complex",
-    "image_path": "images/omnimedvqa_RadImageNet_44967.png",
+    "image_path": "omnimedvqa_RadImageNet_44967.png",
     "question": "Does this image show any abnormalities?",
     "answer": "No, It's normal.",
     "evid_proposals": [
@@ -3393,7 +3393,7 @@
     "id": "omnimedvqa_ISIC2019_0673",
     "dataset": "OmniMedVQA",
     "proxy_complexity": "medium",
-    "image_path": "images/omnimedvqa_ISIC2019_0673.jpg",
+    "image_path": "omnimedvqa_ISIC2019_0673.jpg",
     "question": "What kind of skin irregularity is visible in this picture?",
     "answer": "Melanocytic nevus",
     "evid_proposals": [
@@ -3421,7 +3421,7 @@
     "id": "slake_4803",
     "dataset": "SLAKE",
     "proxy_complexity": "medium",
-    "image_path": "images/slake_4803.jpg",
+    "image_path": "slake_4803.jpg",
     "question": "What diseases are included in the picture?",
     "answer": "None",
     "evid_proposals": [
@@ -3444,7 +3444,7 @@
     "id": "pathvqa_pathvqa_train_00011810",
     "dataset": "PathVQA",
     "proxy_complexity": "medium",
-    "image_path": "images/pathvqa_pathvqa_train_00011810.jpg",
+    "image_path": "pathvqa_pathvqa_train_00011810.jpg",
     "question": "does microscopy of the tumour show a very large multilocular cyst without papillae?",
     "answer": "no",
     "evid_proposals": [
@@ -3467,7 +3467,7 @@
     "id": "pathvqa_pathvqa_train_00000001",
     "dataset": "PathVQA",
     "proxy_complexity": "complex",
-    "image_path": "images/pathvqa_pathvqa_train_00000001.jpg",
+    "image_path": "pathvqa_pathvqa_train_00000001.jpg",
     "question": "what are stained here with an immunohistochemical stain for cytokeratin 7?",
     "answer": "bile duct cells and canals of hering",
     "evid_proposals": [
@@ -3512,7 +3512,7 @@
     "id": "slake_379",
     "dataset": "SLAKE",
     "proxy_complexity": "simple",
-    "image_path": "images/slake_379.jpg",
+    "image_path": "slake_379.jpg",
     "question": "Are the kidneys healthy?",
     "answer": "Yes",
     "evid_proposals": [
@@ -3540,7 +3540,7 @@
     "id": "pathvqa_pathvqa_train_00006765",
     "dataset": "PathVQA",
     "proxy_complexity": "complex",
-    "image_path": "images/pathvqa_pathvqa_train_00006765.jpg",
+    "image_path": "pathvqa_pathvqa_train_00006765.jpg",
     "question": "why does this image show large hemorrhagic lesion about left cord?",
     "answer": "due to tube and candida possibly the portal of entry case of myeloproliferative syndrome with pancytopenia",
     "evid_proposals": [
@@ -3568,7 +3568,7 @@
     "id": "pathvqa_pathvqa_train_00002902",
     "dataset": "PathVQA",
     "proxy_complexity": "medium",
-    "image_path": "images/pathvqa_pathvqa_train_00002902.jpg",
+    "image_path": "pathvqa_pathvqa_train_00002902.jpg",
     "question": "does temporal muscle hemorrhage show liver, adult polycystic kidney?",
     "answer": "no",
     "evid_proposals": [
@@ -3603,7 +3603,7 @@
     "id": "pathvqa_pathvqa_train_00009732",
     "dataset": "PathVQA",
     "proxy_complexity": "complex",
-    "image_path": "images/pathvqa_pathvqa_train_00009732.jpg",
+    "image_path": "pathvqa_pathvqa_train_00009732.jpg",
     "question": "does cachexia show multiple ulcerative lesions rectum primary excellent?",
     "answer": "no",
     "evid_proposals": [
@@ -3638,7 +3638,7 @@
     "id": "vqarad_770",
     "dataset": "VQA-RAD",
     "proxy_complexity": "simple",
-    "image_path": "images/vqarad_770.jpg",
+    "image_path": "vqarad_770.jpg",
     "question": "Is there intraperitoneal hemorrhage present in this image?",
     "answer": "Yes",
     "evid_proposals": [
@@ -3666,7 +3666,7 @@
     "id": "omnimedvqa_RadImageNet_11701",
     "dataset": "OmniMedVQA",
     "proxy_complexity": "medium",
-    "image_path": "images/omnimedvqa_RadImageNet_11701.png",
+    "image_path": "omnimedvqa_RadImageNet_11701.png",
     "question": "What kind of anomaly is evident in this visual representation?",
     "answer": "Osseous neoplasm",
     "evid_proposals": [
@@ -3694,7 +3694,7 @@
     "id": "pathvqa_pathvqa_train_00006696",
     "dataset": "PathVQA",
     "proxy_complexity": "complex",
-    "image_path": "images/pathvqa_pathvqa_train_00006696.jpg",
+    "image_path": "pathvqa_pathvqa_train_00006696.jpg",
     "question": "what does this image show?",
     "answer": "tongue and unopened larynx with blood clot over larynx chronic myeloproliferative disease with acute trans-formation and bleeding disorder",
     "evid_proposals": [
@@ -3807,7 +3807,7 @@
     "id": "vqarad_2038",
     "dataset": "VQA-RAD",
     "proxy_complexity": "medium",
-    "image_path": "images/vqarad_2038.jpg",
+    "image_path": "vqarad_2038.jpg",
     "question": "Which lung are more markings present in?",
     "answer": "Right lung",
     "evid_proposals": [
@@ -3869,7 +3869,7 @@
     "id": "omnimedvqa_RadImageNet_3807",
     "dataset": "OmniMedVQA",
     "proxy_complexity": "medium",
-    "image_path": "images/omnimedvqa_RadImageNet_3807.png",
+    "image_path": "omnimedvqa_RadImageNet_3807.png",
     "question": "What appears in the image that is not considered normal?",
     "answer": "Nodule",
     "evid_proposals": [
@@ -3897,7 +3897,7 @@
     "id": "slake_1686",
     "dataset": "SLAKE",
     "proxy_complexity": "medium",
-    "image_path": "images/slake_1686.jpg",
+    "image_path": "slake_1686.jpg",
     "question": "Is the kidney healthy?",
     "answer": "No",
     "evid_proposals": [
@@ -3920,7 +3920,7 @@
     "id": "omnimedvqa_CRC100k_1052",
     "dataset": "OmniMedVQA",
     "proxy_complexity": "medium",
-    "image_path": "images/omnimedvqa_CRC100k_1052.tif",
+    "image_path": "omnimedvqa_CRC100k_1052.tif",
     "question": "What is depicted in this image in terms of tissue or abnormality?",
     "answer": "Cancer-associated stroma",
     "evid_proposals": [
@@ -3948,7 +3948,7 @@
     "id": "vqarad_1059",
     "dataset": "VQA-RAD",
     "proxy_complexity": "medium",
-    "image_path": "images/vqarad_1059.jpg",
+    "image_path": "vqarad_1059.jpg",
     "question": "Is there any mass shift?",
     "answer": "No",
     "evid_proposals": [
@@ -3971,7 +3971,7 @@
     "id": "omnimedvqa_RadImageNet_16189",
     "dataset": "OmniMedVQA",
     "proxy_complexity": "simple",
-    "image_path": "images/omnimedvqa_RadImageNet_16189.png",
+    "image_path": "omnimedvqa_RadImageNet_16189.png",
     "question": "What structure is depicted in this ultrasound image?",
     "answer": "common bile duct",
     "evid_proposals": [
@@ -3999,7 +3999,7 @@
     "id": "omnimedvqa_Mura_0869",
     "dataset": "OmniMedVQA",
     "proxy_complexity": "medium",
-    "image_path": "images/omnimedvqa_Mura_0869.png",
+    "image_path": "omnimedvqa_Mura_0869.png",
     "question": "Is there any abnormality to be found in this image?",
     "answer": "No abnormality detected",
     "evid_proposals": [
@@ -4022,7 +4022,7 @@
     "id": "pathvqa_pathvqa_train_00015986",
     "dataset": "PathVQA",
     "proxy_complexity": "simple",
-    "image_path": "images/pathvqa_pathvqa_train_00015986.jpg",
+    "image_path": "pathvqa_pathvqa_train_00015986.jpg",
     "question": "where is this part in the figure?",
     "answer": "endocrine system",
     "evid_proposals": [
@@ -4050,7 +4050,7 @@
     "id": "slake_2644",
     "dataset": "SLAKE",
     "proxy_complexity": "simple",
-    "image_path": "images/slake_2644.jpg",
+    "image_path": "slake_2644.jpg",
     "question": "What diseases are included in the picture?",
     "answer": "Pneumonia",
     "evid_proposals": [
@@ -4078,7 +4078,7 @@
     "id": "slake_2387",
     "dataset": "SLAKE",
     "proxy_complexity": "medium",
-    "image_path": "images/slake_2387.jpg",
+    "image_path": "slake_2387.jpg",
     "question": "What disease is/are shown on the upper left of lung?",
     "answer": "Pulmonary Mass",
     "evid_proposals": [
@@ -4106,7 +4106,7 @@
     "id": "vqarad_15",
     "dataset": "VQA-RAD",
     "proxy_complexity": "medium",
-    "image_path": "images/vqarad_15.jpg",
+    "image_path": "vqarad_15.jpg",
     "question": "Is there a pneumothorax?",
     "answer": "no",
     "evid_proposals": [
@@ -4129,7 +4129,7 @@
     "id": "vqarad_1580",
     "dataset": "VQA-RAD",
     "proxy_complexity": "complex",
-    "image_path": "images/vqarad_1580.jpg",
+    "image_path": "vqarad_1580.jpg",
     "question": "Is there a calcification on the upper left lobe?",
     "answer": "No",
     "evid_proposals": [
@@ -4152,7 +4152,7 @@
     "id": "omnimedvqa_Retinal OCT-C8_0739",
     "dataset": "OmniMedVQA",
     "proxy_complexity": "medium",
-    "image_path": "images/omnimedvqa_Retinal OCT-C8_0739.jpg",
+    "image_path": "omnimedvqa_Retinal OCT-C8_0739.jpg",
     "question": "What can be observed about the abnormality depicted in the image?",
     "answer": "The choroidal neovascularization appears as abnormal blood vessels growing beneath the retina.",
     "evid_proposals": [
@@ -4197,7 +4197,7 @@
     "id": "omnimedvqa_RadImageNet_54732",
     "dataset": "OmniMedVQA",
     "proxy_complexity": "simple",
-    "image_path": "images/omnimedvqa_RadImageNet_54732.png",
+    "image_path": "omnimedvqa_RadImageNet_54732.png",
     "question": "What can be observed in this image?",
     "answer": "Soft tissue fluid collection",
     "evid_proposals": [
@@ -4225,7 +4225,7 @@
     "id": "omnimedvqa_RadImageNet_21952",
     "dataset": "OmniMedVQA",
     "proxy_complexity": "simple",
-    "image_path": "images/omnimedvqa_RadImageNet_21952.png",
+    "image_path": "omnimedvqa_RadImageNet_21952.png",
     "question": "What part is shown in this ultrasound image?",
     "answer": "spleen",
     "evid_proposals": [
@@ -4253,7 +4253,7 @@
     "id": "slake_2777",
     "dataset": "SLAKE",
     "proxy_complexity": "complex",
-    "image_path": "images/slake_2777.jpg",
+    "image_path": "slake_2777.jpg",
     "question": "Is/Are there abnormalities in the patient's right lung?",
     "answer": "Yes",
     "evid_proposals": [
@@ -4315,7 +4315,7 @@
     "id": "pathvqa_pathvqa_train_00006976",
     "dataset": "PathVQA",
     "proxy_complexity": "medium",
-    "image_path": "images/pathvqa_pathvqa_train_00006976.jpg",
+    "image_path": "pathvqa_pathvqa_train_00006976.jpg",
     "question": "does this image show pleomorphic adenoma benign mixed tumor?",
     "answer": "yes",
     "evid_proposals": [
@@ -4343,7 +4343,7 @@
     "id": "omnimedvqa_Chest X-Ray PA_0617",
     "dataset": "OmniMedVQA",
     "proxy_complexity": "complex",
-    "image_path": "images/omnimedvqa_Chest X-Ray PA_0617.png",
+    "image_path": "omnimedvqa_Chest X-Ray PA_0617.png",
     "question": "Is everything in this image within normal limits?",
     "answer": "No, It's normal",
     "evid_proposals": [
@@ -4371,7 +4371,7 @@
     "id": "pathvqa_pathvqa_train_00013172",
     "dataset": "PathVQA",
     "proxy_complexity": "medium",
-    "image_path": "images/pathvqa_pathvqa_train_00013172.jpg",
+    "image_path": "pathvqa_pathvqa_train_00013172.jpg",
     "question": "what does this image show?",
     "answer": "normal duct in postmenopausal woman",
     "evid_proposals": [
@@ -4416,7 +4416,7 @@
     "id": "pathvqa_pathvqa_train_00015024",
     "dataset": "PathVQA",
     "proxy_complexity": "simple",
-    "image_path": "images/pathvqa_pathvqa_train_00015024.jpg",
+    "image_path": "pathvqa_pathvqa_train_00015024.jpg",
     "question": "what does this image show?",
     "answer": "shows rather close-up large vein anastomosing to much smaller artery",
     "evid_proposals": [
@@ -4444,7 +4444,7 @@
     "id": "pathvqa_pathvqa_train_00009500",
     "dataset": "PathVQA",
     "proxy_complexity": "simple",
-    "image_path": "images/pathvqa_pathvqa_train_00009500.jpg",
+    "image_path": "pathvqa_pathvqa_train_00009500.jpg",
     "question": "what does this image show?",
     "answer": "meningococcemia",
     "evid_proposals": [
@@ -4472,7 +4472,7 @@
     "id": "omnimedvqa_RUS CHN_1166",
     "dataset": "OmniMedVQA",
     "proxy_complexity": "simple",
-    "image_path": "images/omnimedvqa_RUS CHN_1166.png",
+    "image_path": "omnimedvqa_RUS CHN_1166.png",
     "question": "What is the name of the joint that the bone in the picture originates from?",
     "answer": "Middle Interphalangeal",
     "evid_proposals": [
@@ -4500,7 +4500,7 @@
     "id": "vqarad_1862",
     "dataset": "VQA-RAD",
     "proxy_complexity": "simple",
-    "image_path": "images/vqarad_1862.jpg",
+    "image_path": "vqarad_1862.jpg",
     "question": "What are the hyperattenuations located around the patient?",
     "answer": "Ribs",
     "evid_proposals": [
@@ -4545,7 +4545,7 @@
     "id": "omnimedvqa_RadImageNet_37457",
     "dataset": "OmniMedVQA",
     "proxy_complexity": "simple",
-    "image_path": "images/omnimedvqa_RadImageNet_37457.png",
+    "image_path": "omnimedvqa_RadImageNet_37457.png",
     "question": "What is observed in this image?",
     "answer": "Disc pathology",
     "evid_proposals": [
@@ -4573,7 +4573,7 @@
     "id": "omnimedvqa_Retinal OCT-C8_1773",
     "dataset": "OmniMedVQA",
     "proxy_complexity": "complex",
-    "image_path": "images/omnimedvqa_Retinal OCT-C8_1773.jpg",
+    "image_path": "omnimedvqa_Retinal OCT-C8_1773.jpg",
     "question": "What are the distinguishing characteristics of the abnormality present in this image?",
     "answer": "There is a small hole in the macula, which is the central part of the retina.",
     "evid_proposals": [
@@ -4635,7 +4635,7 @@
     "id": "slake_3282",
     "dataset": "SLAKE",
     "proxy_complexity": "simple",
-    "image_path": "images/slake_3282.jpg",
+    "image_path": "slake_3282.jpg",
     "question": "What diseases are included in the picture?",
     "answer": "Brain Edema",
     "evid_proposals": [
@@ -4663,7 +4663,7 @@
     "id": "vqarad_1149",
     "dataset": "VQA-RAD",
     "proxy_complexity": "simple",
-    "image_path": "images/vqarad_1149.jpg",
+    "image_path": "vqarad_1149.jpg",
     "question": "What is the finding in lumen of the intestine called?",
     "answer": "air fluid level",
     "evid_proposals": [
@@ -4691,7 +4691,7 @@
     "id": "slake_393",
     "dataset": "SLAKE",
     "proxy_complexity": "medium",
-    "image_path": "images/slake_393.jpg",
+    "image_path": "slake_393.jpg",
     "question": "Which organ is abnormal, heart or lung?",
     "answer": "Heart",
     "evid_proposals": [
@@ -4719,7 +4719,7 @@
     "id": "pathvqa_pathvqa_train_00011730",
     "dataset": "PathVQA",
     "proxy_complexity": "medium",
-    "image_path": "images/pathvqa_pathvqa_train_00011730.jpg",
+    "image_path": "pathvqa_pathvqa_train_00011730.jpg",
     "question": "does moebic liver abscess show perineural invasion by prostatic adenocarcinoma?",
     "answer": "no",
     "evid_proposals": [
@@ -4754,7 +4754,7 @@
     "id": "slake_1801",
     "dataset": "SLAKE",
     "proxy_complexity": "complex",
-    "image_path": "images/slake_1801.jpg",
+    "image_path": "slake_1801.jpg",
     "question": "Can nodule be observed on the lower left lung in this picture?",
     "answer": "No",
     "evid_proposals": [
@@ -4789,7 +4789,7 @@
     "id": "pathvqa_pathvqa_train_00012577",
     "dataset": "PathVQA",
     "proxy_complexity": "simple",
-    "image_path": "images/pathvqa_pathvqa_train_00012577.jpg",
+    "image_path": "pathvqa_pathvqa_train_00012577.jpg",
     "question": "does this image show opened abdomen with neoplasm covering all surfaces?",
     "answer": "yes",
     "evid_proposals": [
@@ -4817,7 +4817,7 @@
     "id": "pathvqa_pathvqa_train_00017651",
     "dataset": "PathVQA",
     "proxy_complexity": "medium",
-    "image_path": "images/pathvqa_pathvqa_train_00017651.jpg",
+    "image_path": "pathvqa_pathvqa_train_00017651.jpg",
     "question": "what does this image show?",
     "answer": "fixed tissue frontal section through uterus with single fundus and two endocervical canals and cervical ossa",
     "evid_proposals": [
@@ -4896,7 +4896,7 @@
     "id": "vqarad_1409",
     "dataset": "VQA-RAD",
     "proxy_complexity": "simple",
-    "image_path": "images/vqarad_1409.jpg",
+    "image_path": "vqarad_1409.jpg",
     "question": "What is the mass most likely?",
     "answer": "kidney cyst",
     "evid_proposals": [
@@ -4924,7 +4924,7 @@
     "id": "pathvqa_pathvqa_train_00014356",
     "dataset": "PathVQA",
     "proxy_complexity": "complex",
-    "image_path": "images/pathvqa_pathvqa_train_00014356.jpg",
+    "image_path": "pathvqa_pathvqa_train_00014356.jpg",
     "question": "what does the left ventricle have in this heart?",
     "answer": "a grossly normal appearance",
     "evid_proposals": [
@@ -4952,7 +4952,7 @@
     "id": "pathvqa_pathvqa_train_00009441",
     "dataset": "PathVQA",
     "proxy_complexity": "complex",
-    "image_path": "images/pathvqa_pathvqa_train_00009441.jpg",
+    "image_path": "pathvqa_pathvqa_train_00009441.jpg",
     "question": "what does this image show?",
     "answer": "x-ray chest left hilar mass tumor in hilar node",
     "evid_proposals": [
@@ -5014,7 +5014,7 @@
     "id": "vqarad_1782",
     "dataset": "VQA-RAD",
     "proxy_complexity": "simple",
-    "image_path": "images/vqarad_1782.jpg",
+    "image_path": "vqarad_1782.jpg",
     "question": "What is the location of the brain mass?",
     "answer": "Posterior fossa",
     "evid_proposals": [
@@ -5042,7 +5042,7 @@
     "id": "pathvqa_pathvqa_train_00004620",
     "dataset": "PathVQA",
     "proxy_complexity": "simple",
-    "image_path": "images/pathvqa_pathvqa_train_00004620.jpg",
+    "image_path": "pathvqa_pathvqa_train_00004620.jpg",
     "question": "when does this image show apoptosis in prostate?",
     "answer": "after orchiectomy",
     "evid_proposals": [
@@ -5087,7 +5087,7 @@
     "id": "vqarad_2204",
     "dataset": "VQA-RAD",
     "proxy_complexity": "complex",
-    "image_path": "images/vqarad_2204.jpg",
+    "image_path": "vqarad_2204.jpg",
     "question": "Name one abnormality in the radiograph.",
     "answer": "Increased opacity in the left retrocardiac region",
     "evid_proposals": [
@@ -5115,7 +5115,7 @@
     "id": "pathvqa_pathvqa_train_00014336",
     "dataset": "PathVQA",
     "proxy_complexity": "medium",
-    "image_path": "images/pathvqa_pathvqa_train_00014336.jpg",
+    "image_path": "pathvqa_pathvqa_train_00014336.jpg",
     "question": "is this typical lesion present?",
     "answer": "no",
     "evid_proposals": [
@@ -5138,7 +5138,7 @@
     "id": "slake_3354",
     "dataset": "SLAKE",
     "proxy_complexity": "simple",
-    "image_path": "images/slake_3354.jpg",
+    "image_path": "slake_3354.jpg",
     "question": "Is the brain healthy?",
     "answer": "Yes",
     "evid_proposals": [
@@ -5166,7 +5166,7 @@
     "id": "vqarad_216",
     "dataset": "VQA-RAD",
     "proxy_complexity": "complex",
-    "image_path": "images/vqarad_216.jpg",
+    "image_path": "vqarad_216.jpg",
     "question": "where is the abnormality?",
     "answer": "Right upper lobe",
     "evid_proposals": [
@@ -5194,7 +5194,7 @@
     "id": "omnimedvqa_RadImageNet_45447",
     "dataset": "OmniMedVQA",
     "proxy_complexity": "complex",
-    "image_path": "images/omnimedvqa_RadImageNet_45447.png",
+    "image_path": "omnimedvqa_RadImageNet_45447.png",
     "question": "Does this image reveal any anomalies?",
     "answer": "No, It's normal.",
     "evid_proposals": [
@@ -5222,7 +5222,7 @@
     "id": "pathvqa_pathvqa_train_00003892",
     "dataset": "PathVQA",
     "proxy_complexity": "medium",
-    "image_path": "images/pathvqa_pathvqa_train_00003892.jpg",
+    "image_path": "pathvqa_pathvqa_train_00003892.jpg",
     "question": "is the lung biopsy specimen present in the temporal lobe?",
     "answer": "no",
     "evid_proposals": [
@@ -5245,7 +5245,7 @@
     "id": "pathvqa_pathvqa_train_00004327",
     "dataset": "PathVQA",
     "proxy_complexity": "medium",
-    "image_path": "images/pathvqa_pathvqa_train_00004327.jpg",
+    "image_path": "pathvqa_pathvqa_train_00004327.jpg",
     "question": "what does this image show?",
     "answer": "lymph node",
     "evid_proposals": [
@@ -5273,7 +5273,7 @@
     "id": "vqarad_325",
     "dataset": "VQA-RAD",
     "proxy_complexity": "simple",
-    "image_path": "images/vqarad_325.jpg",
+    "image_path": "vqarad_325.jpg",
     "question": "Are lung markings present in the entire thoracic cavity?",
     "answer": "Yes",
     "evid_proposals": [
@@ -5301,7 +5301,7 @@
     "id": "slake_1889",
     "dataset": "SLAKE",
     "proxy_complexity": "medium",
-    "image_path": "images/slake_1889.jpg",
+    "image_path": "slake_1889.jpg",
     "question": "What disease is/are shown on the right of lung?",
     "answer": "Atelectasis",
     "evid_proposals": [
@@ -5329,7 +5329,7 @@
     "id": "omnimedvqa_ISIC2020_0883",
     "dataset": "OmniMedVQA",
     "proxy_complexity": "medium",
-    "image_path": "images/omnimedvqa_ISIC2020_0883.jpg",
+    "image_path": "omnimedvqa_ISIC2020_0883.jpg",
     "question": "Is the image in this case indicative of a benign or malignant abnormality?",
     "answer": "Benign image.",
     "evid_proposals": [
@@ -5357,7 +5357,7 @@
     "id": "slake_2631",
     "dataset": "SLAKE",
     "proxy_complexity": "complex",
-    "image_path": "images/slake_2631.jpg",
+    "image_path": "slake_2631.jpg",
     "question": "Can mass be observed on the lower left lung in this picture?",
     "answer": "No",
     "evid_proposals": [
@@ -5380,7 +5380,7 @@
     "id": "pathvqa_pathvqa_train_00012501",
     "dataset": "PathVQA",
     "proxy_complexity": "simple",
-    "image_path": "images/pathvqa_pathvqa_train_00012501.jpg",
+    "image_path": "pathvqa_pathvqa_train_00012501.jpg",
     "question": "what is granulomata slide typical cold abscess exudate on the liver surface?",
     "answer": "a close-up view of",
     "evid_proposals": [
@@ -5408,7 +5408,7 @@
     "id": "pathvqa_pathvqa_train_00017055",
     "dataset": "PathVQA",
     "proxy_complexity": "medium",
-    "image_path": "images/pathvqa_pathvqa_train_00017055.jpg",
+    "image_path": "pathvqa_pathvqa_train_00017055.jpg",
     "question": "are varices sites of variceal hemorrhage that were ligated with bands?",
     "answer": "no",
     "evid_proposals": [
@@ -5443,7 +5443,7 @@
     "id": "vqarad_1682",
     "dataset": "VQA-RAD",
     "proxy_complexity": "simple",
-    "image_path": "images/vqarad_1682.jpg",
+    "image_path": "vqarad_1682.jpg",
     "question": "Is there fat in these masses?",
     "answer": "Yes",
     "evid_proposals": [
@@ -5471,7 +5471,7 @@
     "id": "vqarad_640",
     "dataset": "VQA-RAD",
     "proxy_complexity": "medium",
-    "image_path": "images/vqarad_640.jpg",
+    "image_path": "vqarad_640.jpg",
     "question": "Does the skull appear fractured?",
     "answer": "No",
     "evid_proposals": [
@@ -5494,7 +5494,7 @@
     "id": "vqarad_176",
     "dataset": "VQA-RAD",
     "proxy_complexity": "medium",
-    "image_path": "images/vqarad_176.jpg",
+    "image_path": "vqarad_176.jpg",
     "question": "Has the brainstem herniated?",
     "answer": "no",
     "evid_proposals": [
@@ -5517,7 +5517,7 @@
     "id": "omnimedvqa_ISIC2020_1340",
     "dataset": "OmniMedVQA",
     "proxy_complexity": "medium",
-    "image_path": "images/omnimedvqa_ISIC2020_1340.jpg",
+    "image_path": "omnimedvqa_ISIC2020_1340.jpg",
     "question": "Is the abnormality visible in this image classified as benign or malignant?",
     "answer": "Benign image.",
     "evid_proposals": [
@@ -5545,7 +5545,7 @@
     "id": "vqarad_597",
     "dataset": "VQA-RAD",
     "proxy_complexity": "medium",
-    "image_path": "images/vqarad_597.jpg",
+    "image_path": "vqarad_597.jpg",
     "question": "Do the kidneys appear to be normal?",
     "answer": "yes",
     "evid_proposals": [
@@ -5573,7 +5573,7 @@
     "id": "omnimedvqa_RadImageNet_34887",
     "dataset": "OmniMedVQA",
     "proxy_complexity": "medium",
-    "image_path": "images/omnimedvqa_RadImageNet_34887.png",
+    "image_path": "omnimedvqa_RadImageNet_34887.png",
     "question": "What is detectable in this image?",
     "answer": "Chondral abnormality",
     "evid_proposals": [
@@ -5601,7 +5601,7 @@
     "id": "slake_2326",
     "dataset": "SLAKE",
     "proxy_complexity": "medium",
-    "image_path": "images/slake_2326.jpg",
+    "image_path": "slake_2326.jpg",
     "question": "What disease is/are shown on the left of lung?",
     "answer": "Atelectasis",
     "evid_proposals": [
@@ -5629,7 +5629,7 @@
     "id": "slake_3768",
     "dataset": "SLAKE",
     "proxy_complexity": "complex",
-    "image_path": "images/slake_3768.jpg",
+    "image_path": "slake_3768.jpg",
     "question": "What disease is/are shown on the right of brain?",
     "answer": "Brain Edema, Brain Enhancing Tumor, Brain Non-enhancing Tumor",
     "evid_proposals": [
@@ -5691,7 +5691,7 @@
     "id": "slake_1981",
     "dataset": "SLAKE",
     "proxy_complexity": "complex",
-    "image_path": "images/slake_1981.jpg",
+    "image_path": "slake_1981.jpg",
     "question": "What is the main cause of the disease on the right of the lung in the picture?",
     "answer": "Pulmonary infection, lung tumor, tuberculosis and other diseases",
     "evid_proposals": [
@@ -5770,7 +5770,7 @@
     "id": "slake_262",
     "dataset": "SLAKE",
     "proxy_complexity": "medium",
-    "image_path": "images/slake_262.jpg",
+    "image_path": "slake_262.jpg",
     "question": "Which organ is abnormal, heart or lung?",
     "answer": "Lung",
     "evid_proposals": [
@@ -5798,7 +5798,7 @@
     "id": "pathvqa_pathvqa_train_00012094",
     "dataset": "PathVQA",
     "proxy_complexity": "complex",
-    "image_path": "images/pathvqa_pathvqa_train_00012094.jpg",
+    "image_path": "pathvqa_pathvqa_train_00012094.jpg",
     "question": "does cut surface show multiple nodules separated from each other by incomplete fibrous septa?",
     "answer": "yes",
     "evid_proposals": [
@@ -5826,7 +5826,7 @@
     "id": "slake_4069",
     "dataset": "SLAKE",
     "proxy_complexity": "medium",
-    "image_path": "images/slake_4069.jpg",
+    "image_path": "slake_4069.jpg",
     "question": "Does the brain look abnormal?",
     "answer": "Yes",
     "evid_proposals": [
@@ -5854,7 +5854,7 @@
     "id": "slake_2037",
     "dataset": "SLAKE",
     "proxy_complexity": "complex",
-    "image_path": "images/slake_2037.jpg",
+    "image_path": "slake_2037.jpg",
     "question": "Can nodule be observed on the lower left lung in this picture?",
     "answer": "No",
     "evid_proposals": [
@@ -5877,7 +5877,7 @@
     "id": "omnimedvqa_RadImageNet_20126",
     "dataset": "OmniMedVQA",
     "proxy_complexity": "simple",
-    "image_path": "images/omnimedvqa_RadImageNet_20126.png",
+    "image_path": "omnimedvqa_RadImageNet_20126.png",
     "question": "What part is shown in this ultrasound image?",
     "answer": "liver",
     "evid_proposals": [
@@ -5905,7 +5905,7 @@
     "id": "omnimedvqa_Blood Cell_0245",
     "dataset": "OmniMedVQA",
     "proxy_complexity": "medium",
-    "image_path": "images/omnimedvqa_Blood Cell_0245.jpeg",
+    "image_path": "omnimedvqa_Blood Cell_0245.jpeg",
     "question": "What specific cells are visible in this image?",
     "answer": "eosinophils",
     "evid_proposals": [
@@ -5933,7 +5933,7 @@
     "id": "slake_198",
     "dataset": "SLAKE",
     "proxy_complexity": "simple",
-    "image_path": "images/slake_198.jpg",
+    "image_path": "slake_198.jpg",
     "question": "What diseases are included in the picture?",
     "answer": "Cardiomegal",
     "evid_proposals": [
@@ -5961,7 +5961,7 @@
     "id": "pathvqa_pathvqa_train_00010946",
     "dataset": "PathVQA",
     "proxy_complexity": "medium",
-    "image_path": "images/pathvqa_pathvqa_train_00010946.jpg",
+    "image_path": "pathvqa_pathvqa_train_00010946.jpg",
     "question": "are the vegetations shown on the mitral valve are shown as seen from the left ventricle?",
     "answer": "yes",
     "evid_proposals": [
@@ -6023,7 +6023,7 @@
     "id": "vqarad_1413",
     "dataset": "VQA-RAD",
     "proxy_complexity": "simple",
-    "image_path": "images/vqarad_1413.jpg",
+    "image_path": "vqarad_1413.jpg",
     "question": "What is the lighter substance around the gallbladder",
     "answer": "Pericholecystic fluid",
     "evid_proposals": [
@@ -6051,7 +6051,7 @@
     "id": "vqarad_443",
     "dataset": "VQA-RAD",
     "proxy_complexity": "complex",
-    "image_path": "images/vqarad_443.jpg",
+    "image_path": "vqarad_443.jpg",
     "question": "Is the opacity near the left lung apex pathologic?",
     "answer": "No",
     "evid_proposals": [
@@ -6074,7 +6074,7 @@
     "id": "omnimedvqa_RadImageNet_41809",
     "dataset": "OmniMedVQA",
     "proxy_complexity": "medium",
-    "image_path": "images/omnimedvqa_RadImageNet_41809.png",
+    "image_path": "omnimedvqa_RadImageNet_41809.png",
     "question": "What is the abnormality seen in this image?",
     "answer": "Labral pathology",
     "evid_proposals": [
@@ -6102,7 +6102,7 @@
     "id": "pathvqa_pathvqa_train_00006193",
     "dataset": "PathVQA",
     "proxy_complexity": "simple",
-    "image_path": "images/pathvqa_pathvqa_train_00006193.jpg",
+    "image_path": "pathvqa_pathvqa_train_00006193.jpg",
     "question": "what does this image show?",
     "answer": "brain",
     "evid_proposals": [
@@ -6130,7 +6130,7 @@
     "id": "pathvqa_pathvqa_train_00007885",
     "dataset": "PathVQA",
     "proxy_complexity": "simple",
-    "image_path": "images/pathvqa_pathvqa_train_00007885.jpg",
+    "image_path": "pathvqa_pathvqa_train_00007885.jpg",
     "question": "what does this image show?",
     "answer": "burkits lymphoma",
     "evid_proposals": [
@@ -6158,7 +6158,7 @@
     "id": "slake_2615",
     "dataset": "SLAKE",
     "proxy_complexity": "simple",
-    "image_path": "images/slake_2615.jpg",
+    "image_path": "slake_2615.jpg",
     "question": "What diseases are included in the picture?",
     "answer": "Pulmonary Mass",
     "evid_proposals": [
@@ -6186,7 +6186,7 @@
     "id": "pathvqa_pathvqa_train_00005080",
     "dataset": "PathVQA",
     "proxy_complexity": "simple",
-    "image_path": "images/pathvqa_pathvqa_train_00005080.jpg",
+    "image_path": "pathvqa_pathvqa_train_00005080.jpg",
     "question": "what tend to be larger than nevi, with irregular contours and variable pigmentation?",
     "answer": "lesions",
     "evid_proposals": [
@@ -6214,7 +6214,7 @@
     "id": "slake_2830",
     "dataset": "SLAKE",
     "proxy_complexity": "complex",
-    "image_path": "images/slake_2830.jpg",
+    "image_path": "slake_2830.jpg",
     "question": "Can effusion be observed on the upper right lung in this picture?",
     "answer": "No",
     "evid_proposals": [
@@ -6261,7 +6261,7 @@
     "id": "vqarad_1178",
     "dataset": "VQA-RAD",
     "proxy_complexity": "medium",
-    "image_path": "images/vqarad_1178.jpg",
+    "image_path": "vqarad_1178.jpg",
     "question": "Where is the lesion located?",
     "answer": "Right temporal lobe",
     "evid_proposals": [
@@ -6306,7 +6306,7 @@
     "id": "slake_631",
     "dataset": "SLAKE",
     "proxy_complexity": "simple",
-    "image_path": "images/slake_631.jpg",
+    "image_path": "slake_631.jpg",
     "question": "What diseases are included in the picture?",
     "answer": "Pneumothorax",
     "evid_proposals": [
@@ -6334,7 +6334,7 @@
     "id": "slake_504",
     "dataset": "SLAKE",
     "proxy_complexity": "simple",
-    "image_path": "images/slake_504.jpg",
+    "image_path": "slake_504.jpg",
     "question": "What diseases are included in the picture?",
     "answer": "Pneumothorax",
     "evid_proposals": [
@@ -6362,7 +6362,7 @@
     "id": "slake_839",
     "dataset": "SLAKE",
     "proxy_complexity": "medium",
-    "image_path": "images/slake_839.jpg",
+    "image_path": "slake_839.jpg",
     "question": "Is the liver healthy?",
     "answer": "No",
     "evid_proposals": [
@@ -6385,7 +6385,7 @@
     "id": "vqarad_1027",
     "dataset": "VQA-RAD",
     "proxy_complexity": "simple",
-    "image_path": "images/vqarad_1027.jpg",
+    "image_path": "vqarad_1027.jpg",
     "question": "What ventricle is the lesion compressing?",
     "answer": "4th ventricle",
     "evid_proposals": [
@@ -6413,7 +6413,7 @@
     "id": "pathvqa_pathvqa_train_00016510",
     "dataset": "PathVQA",
     "proxy_complexity": "simple",
-    "image_path": "images/pathvqa_pathvqa_train_00016510.jpg",
+    "image_path": "pathvqa_pathvqa_train_00016510.jpg",
     "question": "what are there from this case in this file 23 yowf amyloid limited to brain?",
     "answer": "several slides",
     "evid_proposals": [
@@ -6441,7 +6441,7 @@
     "id": "vqarad_633",
     "dataset": "VQA-RAD",
     "proxy_complexity": "complex",
-    "image_path": "images/vqarad_633.jpg",
+    "image_path": "vqarad_633.jpg",
     "question": "Are both lungs abnormally inflated?",
     "answer": "no",
     "evid_proposals": [
@@ -6464,7 +6464,7 @@
     "id": "pathvqa_pathvqa_train_00009618",
     "dataset": "PathVQA",
     "proxy_complexity": "complex",
-    "image_path": "images/pathvqa_pathvqa_train_00009618.jpg",
+    "image_path": "pathvqa_pathvqa_train_00009618.jpg",
     "question": "what does this image show?",
     "answer": "multiple nodular lesions infiltrating neoplastic plasma cells",
     "evid_proposals": [
@@ -6509,7 +6509,7 @@
     "id": "slake_3565",
     "dataset": "SLAKE",
     "proxy_complexity": "medium",
-    "image_path": "images/slake_3565.jpg",
+    "image_path": "slake_3565.jpg",
     "question": "Does the brain look abnormal?",
     "answer": "Yes",
     "evid_proposals": [
@@ -6537,7 +6537,7 @@
     "id": "omnimedvqa_RadImageNet_50592",
     "dataset": "OmniMedVQA",
     "proxy_complexity": "simple",
-    "image_path": "images/omnimedvqa_RadImageNet_50592.png",
+    "image_path": "omnimedvqa_RadImageNet_50592.png",
     "question": "What can be observed in this image?",
     "answer": "Peroneal pathology",
     "evid_proposals": [
